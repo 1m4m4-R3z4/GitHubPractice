@@ -1,5 +1,6 @@
 public class HelloWorld{
     public static void main(String[] args){
-    System.out.println("Hello World");
+    System.out.println("I hate printing hello world, please make it stop.");
+    System.out.println("I hope I never have to do this again.");
     }
 }
